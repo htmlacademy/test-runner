@@ -1,4 +1,4 @@
-###Unit-test runner
+## Unit-test runner
 
 Приложение представляет собой редактор и раннер тестов (http://jsbin.com/?js,output)
 Пример редактора: https://up.htmlacademy.ru/htmlcss/15/resources/717#step8
